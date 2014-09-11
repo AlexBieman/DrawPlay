@@ -6,7 +6,7 @@ public class Cat {
 	// Changed eye size and head size
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
-	private static final int HEAD_DIMENSION = 125;
+	private static final int HEAD_DIMENSION = 120; //changed from 125 to 120
 	// eyes will be about 1/4 from top of head and 1/4 from left
 	private static final int EYE_Y = HEAD_DIMENSION/4;
 	private static final int EYE_X = HEAD_DIMENSION/4;
